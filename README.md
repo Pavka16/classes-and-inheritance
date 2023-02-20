@@ -1,4 +1,6 @@
 ## **Классы, наследование**
+[![Build status](https://ci.appveyor.com/api/projects/status/u31av4dqw9e0u5we?svg=true)](https://ci.appveyor.com/project/Pavka16/classes-and-inheritance)
+
 ---
 ### **Легенда**
 
